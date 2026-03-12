@@ -1,12 +1,6 @@
 # MouseMacro - 鼠标操作录制工具
 
 <div align="center">
-![MouseMacro](https://img.shields.io/badge/MouseMacro-v2.0.0-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.7+-green?style=for-the-badge&logo=python)
-![Windows](https://img.shields.io/badge/Windows-10/11-success?style=for-the-badge&logo=windows)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
 **一个简单易用的 Windows 鼠标操作录制与回放工具，支持录制指定窗口内的鼠标移动和点击操作，并可重复回放。**
 
 [功能特点](#功能特点) • [快速开始](#快速开始) • [使用说明](#使用说明) • [常见问题](#常见问题) • [更新日志](CHANGELOG.md)
