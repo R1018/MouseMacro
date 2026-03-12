@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# 项目配置和运行时文件
+config.json
+debug.log
+
+# 用户录制的脚本（可选，如果想分享脚本则删除此行）
+Scripts/*.json
+# 但保留 Scripts 目录
+!Scripts/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
